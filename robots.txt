@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://latvia.avokatfinder.com/sitemap.xml
