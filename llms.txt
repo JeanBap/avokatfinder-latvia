@@ -1,5 +1,31 @@
 # AvökatFinder Latvia
-> English-speaking law firm directory for Latvia
+> The English-language directory of lawyers and law firms in Latvia for expats, foreign nationals and international businesses.
 
-Directory: https://latvia.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://latvia.avokatfinder.com/: Home — find an English-speaking lawyer in Latvia
+- https://latvia.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Latvia
+- https://latvia.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Latvia legal terms
+- https://latvia.avokatfinder.com/blog/: Expat legal guides and property law articles for Latvia
+- https://latvia.avokatfinder.com/about/: About AvökatFinder Latvia
+- https://latvia.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://latvia.avokatfinder.com/glossary/due-diligence-nekustamais-ipasums/
+- https://latvia.avokatfinder.com/glossary/hipoteka-latvija/
+- https://latvia.avokatfinder.com/glossary/ires-ligums-latvija/
+- https://latvia.avokatfinder.com/glossary/kadastrs-latvija/
+- https://latvia.avokatfinder.com/glossary/notars-latvija/
+- https://latvia.avokatfinder.com/glossary/pilnvara/
+- https://latvia.avokatfinder.com/glossary/pirkuma-ligums/
+- https://latvia.avokatfinder.com/glossary/zemesgramata/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Latvia
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://latvia.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
