@@ -10,14 +10,20 @@
 - https://latvia.avokatfinder.com/contact/: Contact us
 
 ## Legal Glossary Terms
+- https://latvia.avokatfinder.com/glossary/apliecinajums/
 - https://latvia.avokatfinder.com/glossary/due-diligence-nekustamais-ipasums/
 - https://latvia.avokatfinder.com/glossary/hipoteka-latvija/
+- https://latvia.avokatfinder.com/glossary/hipoteka-lv/
 - https://latvia.avokatfinder.com/glossary/ires-ligums-latvija/
 - https://latvia.avokatfinder.com/glossary/kadastrs-latvija/
+- https://latvia.avokatfinder.com/glossary/kadastrs-lv/
+- https://latvia.avokatfinder.com/glossary/nomas-ligums-lv/
+- https://latvia.avokatfinder.com/glossary/piemaksas-ligums/
+- https://latvia.avokatfinder.com/glossary/zemes-noma-lv/
+- https://latvia.avokatfinder.com/glossary/zemesgramata/
 - https://latvia.avokatfinder.com/glossary/notars-latvija/
 - https://latvia.avokatfinder.com/glossary/pilnvara/
 - https://latvia.avokatfinder.com/glossary/pirkuma-ligums/
-- https://latvia.avokatfinder.com/glossary/zemesgramata/
 
 ## Site Info
 - Language: English
